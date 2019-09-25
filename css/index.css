@@ -1,9 +1,17 @@
 *{
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 #header-top{
   width: 1580px;
   height: 28px;
   background-color: #545652;
+  color: #d5d5d5;
+}
+#header-top .word-o li{
+  float: left;
+}
+#header-top .word-t li{
+  float: right;
 }
