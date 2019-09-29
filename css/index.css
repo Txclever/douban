@@ -28,3 +28,8 @@ body{
 #header-top .word-t .xiazai{
   margin-right: 25px;
 }
+#header-bottom{
+  width: 1903px;
+  height: 115px;
+  background-color: #f0f3f5;
+}
